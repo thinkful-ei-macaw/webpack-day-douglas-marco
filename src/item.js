@@ -1,3 +1,7 @@
+import $ from 'jquery';
+import './index.css';
+import cuid from 'cuid';
+
 const validateName = function(name) {
   if (!name) throw new TypeError('Name must not be blank');
 };
