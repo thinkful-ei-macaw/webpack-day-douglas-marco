@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-macaw/webpack-day-douglas-marco/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-macaw/webpack-day-douglas-marco#readme"
+  "homepage": "https://github.com/thinkful-ei-macaw/webpack-day-douglas-marco#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
